@@ -5,5 +5,5 @@ import (
 )
 
 //Name is name
-const Name = b.Name
+const Name = b.Name + "v2"
 
